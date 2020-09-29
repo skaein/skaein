@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on python programming language
+- 🌱 I’m currently learning python
+- 💬 Ask me about python
+- 📫 How to reach me: send email ' myaslan333@gmail.com ' or ' muhammetyusufaslan@gmail.com  '
+- ⚡ Fun fact: forget the save project
+#------------------------------------------#
+
+name = ' yusuf '
+age = ' 17 '
+language = ' python '
+country = ' TURKEY '
+job = 'student' 
+
+#------------------------------------------#
+
+gitHub = "Hi, my name is" + name + ". Im" + age + "years old ." " Im learning" + language + "programming language" ". My job is " + job + " still " "." 
+print(gitHub)
+
+#------------------------------------------#
 -->
