@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send email ' myaslan333@gmail.com ' or ' muhammetyusufaslan@gmail.com  '
 - ⚡ Fun fact: forget the save project
 #------------------------------------------#
-
 name = ' yusuf '
 age = ' 17 '
 language = ' python '
@@ -20,7 +19,8 @@ job = 'student'
 
 #------------------------------------------#
 
-gitHub = "Hi, my name is" + name + ". Im" + age + "years old ." " Im learning" + language + "programming language" ". My job is " + job + " still " "." 
+gitHub = "Hi, my name is" + name + ". Im" + age + "years old ." " Im living " + country + " Im learning" + language + "programming language" ". My job is " + job + " still " "." 
+
 print(gitHub)
 
 #------------------------------------------#
